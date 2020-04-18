@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812419354245",
+    "firebase_url": "https://wazifa-d147b.firebaseio.com",
+    "project_id": "wazifa-d147b",
+    "storage_bucket": "wazifa-d147b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812419354245:android:a182a0548fd94eb70423ec",
+        "android_client_info": {
+          "package_name": "www.wazifa.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812419354245-jf5hk6hb991n4ja3m6n3obk7q24hldus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1ZmGF70MQFZlxxeDhXbPuk_1tXXjr1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812419354245-jf5hk6hb991n4ja3m6n3obk7q24hldus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
